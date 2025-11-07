@@ -1,16 +1,16 @@
 import type { Metadata } from 'next'
-import RussianEscortsHotelConradView from './RussianEscortsHotelConradView'
+import RussianEscortsTajVivantaView from './RussianEscortsTajVivantaView'
 
 export const metadata: Metadata = {
-  title: 'Russian Escorts in Hotel Conrad Bangalore | Asifaa',
+  title: 'Russian Escorts in Taj Vivanta Bangalore | Asifaa',
   description:
-    'Book Russian escorts in Hotel Conrad Bangalore with Asifaa and enjoy personalized, discreet luxury evenings crafted by a women-led concierge team.',
+    'Book Russian escorts in Taj Vivanta Bangalore for luxury outcalls, tantric delights, and unforgettable evenings with Priyanka’s elite companions.',
 }
 
-const RussianEscortsHotelConradPage = () => {
-  return <RussianEscortsHotelConradView />
+const RussianEscortsTajVivantaPage = () => {
+  return <RussianEscortsTajVivantaView />
 }
 
-export default RussianEscortsHotelConradPage
+export default RussianEscortsTajVivantaPage
 
 
